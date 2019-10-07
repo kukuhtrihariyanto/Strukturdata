@@ -5,6 +5,7 @@
 #include <conio.h>
 #include <string.h>
 #define maks 3
+
 using namespace std;
 
 struct TMhs
